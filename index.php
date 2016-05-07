@@ -75,7 +75,8 @@
     <!-- Header -->
     <header>
         <div class="container">
-            <div class="row">
+            <?php include'header.php';?>
+            <!--<div class="row">
                 <div class="col-lg-12">
                     <img class="img-responsive" src="img/profile.png" alt="">
                     <div class="intro-text">
@@ -84,7 +85,7 @@
                         <span class="skills">Web Developer - Graphic Artist - User Experience Designer</span>
                     </div>
                 </div>
-            </div>
+            </div>-->
         </div>
     </header>
 
